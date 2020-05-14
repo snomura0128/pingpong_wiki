@@ -1,0 +1,15 @@
+current directory: /Users/nomurasatoshi/Documents/work/rails/pingpong_wiki/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/nomurasatoshi/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200510-76236-w0g2p8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nomurasatoshi/Documents/work/rails/pingpong_wiki/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/nomurasatoshi/Documents/work/rails/pingpong_wiki/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nomurasatoshi/Documents/work/rails/pingpong_wiki/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200510-76236-1uccay2/bootsnap
